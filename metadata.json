@@ -1,0 +1,6 @@
+{
+  "name": "PrismaDados — Estúdio de Gráficos e Territórios",
+  "description": "Estúdio interativo de visualização de dados com gráficos de quadradinhos, linhas animadas, barras, retângulos proporcionais, matrizes 10x10, barras divergentes e cartografia territorial real em 2D com exportação em JSON Lottie e imagem.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
